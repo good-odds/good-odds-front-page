@@ -11,7 +11,13 @@ module.exports = {
     DEV_SSR: true,
   },
   plugins: [
-    'gatsby-plugin-sharp',
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        formats: [`auto`, `webp`], // Remove AVIF from formats
+        defaultQuality: 80,
+      },
+    },
     'gatsby-transformer-sharp',
     'gatsby-plugin-preload-fonts',
     'gatsby-plugin-image',
