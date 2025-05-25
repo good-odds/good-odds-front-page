@@ -5,6 +5,9 @@
 [build.environment]
   YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
+  SHARP_IGNORE_GLOBAL_LIBVIPS = "1"
+  NPM_FLAGS = "--production=false"
+
 
 [[plugins]]
   package = "@netlify/plugin-gatsby"
