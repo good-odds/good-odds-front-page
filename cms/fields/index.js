@@ -10,6 +10,7 @@ export const SelectField = (
   name,
   widget: 'select',
   options,
+  required: false,
   ...(initial ? { default: initial } : null),
 });
 

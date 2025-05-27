@@ -14,8 +14,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sharp`,
       options: {
-        formats: [`auto`, `webp`], // Remove AVIF from formats
-        defaultQuality: 80,
+      //   formats: [`auto`, `webp`], // Remove AVIF from formats
+      //   defaultQuality: 80,
       },
     },
     'gatsby-transformer-sharp',
@@ -26,7 +26,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-netlify-identity-widget',
       options: {
-        url: 'https://goododds.space/'
+        url: 'https://goododds.space'
       }
     },
     {
