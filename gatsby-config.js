@@ -24,9 +24,9 @@ module.exports = {
     'gatsby-plugin-dark-mode',
     'gatsby-plugin-postcss',
     {
-      resolve: `gatsby-plugin-netlify-identity`,
+      resolve: 'gatsby-plugin-netlify-identity-widget',
       options: {
-        url: `https://goododds.space/` // your site URL
+        url: 'https://goododds.space/'
       }
     },
     {
