@@ -48,7 +48,7 @@
     "start": "gatsby develop",
     "dev": "npm run develop",
     "develop": "npm run clean && gatsby develop",
-    "build": "npm run clean && gatsby build",
+    "build": "npm run clean && gatsby build && cp -r emails public/",
     "cms": "npx decap-server",
     "serve": "gatsby serve",
     "serve:prod": "npm run clean && gatsby build && gatsby serve",
