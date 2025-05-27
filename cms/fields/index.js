@@ -70,6 +70,7 @@ export const SettingsGroup = {
   label: 'Settings',
   name: 'settings',
   widget: 'object',
+  required: false,
   collapsed: true,
   fields: [
     SelectField('default', ['default', 'dark', 'gray']),
