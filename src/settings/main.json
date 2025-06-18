@@ -1,12 +1,12 @@
 {
   "nav": [
     {
-      "name": "Example Blog",
+      "name": "Blog",
       "permalink": "/blog/"
     },
     {
-      "name": "Documentation",
-      "permalink": "https://github.com/clean-commit/gatsby-starter-henlo"
+      "name": "Contact",
+      "permalink": "https://goododds.space//contact"
     }
   ]
 }
