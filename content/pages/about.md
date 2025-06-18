@@ -4,7 +4,7 @@ id: 857ff8b7-56fe-4089-9dfe-ed8dafb19daa
 type: page
 layout: page-builder
 title: Contact
-permalink: /about/
+permalink: /contact/
 blocks:
   - type: hero
     title: Talk to me
