@@ -1,11 +1,11 @@
 {
   "separator": "|",
-  "baseTitle": "Henlo.",
-  "keyword": "gatsby-starter, blazing fast static site",
+  "baseTitle": "GOOD ODDS",
+  "keyword": "coburg, space, venue, co-work, music",
   "lang": "en",
-  "title": "The most advanced starter for Gatsby & Netlify CMS.",
+  "title": "Experimental Community Space",
   "themeColor": "#000",
-  "image": "/img/henlo-cover.png",
+  "image": "",
   "twitterHandle": "@cleancommit",
-  "description": "Think lightweight WordPress. Extensible, block based starter for Netlify CMS. Built with performance in mind, styled with TailwindCSS. "
+  "description": "fuck around and find out"
 }
