@@ -15,7 +15,7 @@ blocks:
       - button:
           variant: default
           content: get in touch
-          url: goododds.space/contact
+          url: goododds.space//contact
   - type: perks
     title: Whats on
     columns:
